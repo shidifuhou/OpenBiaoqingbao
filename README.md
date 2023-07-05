@@ -1,5 +1,12 @@
 # OpenBiaoqingbao
 
+<p align="center">
+  <img src="https://github.com/shidifuhou/OpenBiaoqingbao/blob/main/beng.jpg?raw=true" alt="Beng Biaoqingbao">
+</p>
+
+# Biaoqingbao Collection
+
+
 The `biaoqingbao_n.jpg` files represent individual biaoqingbao images created by you and your friends. Feel free to add more images as you create them. The `README.md` file you are currently reading provides information about the repository.
 
 ## Usage
